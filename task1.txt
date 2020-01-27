@@ -1,0 +1,5 @@
+In this task,
+>I have created a github account.
+>I have installed GIT in my PC.
+>I have created repository named "bhargavPutta_GIT" by git commands.
+>I have added files to the above mentioned repository.
